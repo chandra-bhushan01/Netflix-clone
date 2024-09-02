@@ -18,6 +18,5 @@
 - Setup Redux-router-dom
 - Created watch page
 - extracted video id form the url using useSearchParam/ searchparams.get("...")
-- 
 
 
