@@ -1,8 +1,23 @@
-# React + Vite
+***Youtube Clone***
+- created react vite app
+- configured tailwind css
+- Basic Structure
+- Congifured env variables
+- created Components
+    - head
+    -body
+        - Sidebar
+          - Menu Items
+        - Main Container/ WatchPage
+          - Button List
+          - Video container
+            - Video Card
+        
+    
+- Setup Redux store
+- Setup Redux-router-dom
+- Created watch page
+- extracted video id form the url using useSearchParam/ searchparams.get("...")
+- 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
